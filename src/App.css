@@ -21,7 +21,6 @@
 .App-link {
   color: #61dafb;
 }
-
 img {
   max-width: 60%;
   object-fit: cover;
@@ -30,7 +29,13 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: lightgray;
 }
 .explanation {
   max-width: 50%;
+  padding: 20px;
+  background-color:lightpink;
+}
+.header {
+  background-color: #61dafb;
 }
